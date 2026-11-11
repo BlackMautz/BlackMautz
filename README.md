@@ -8,9 +8,7 @@
   <a href="https://discord.gg/y7XMy8Jduq">
     <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/BlackMautz">
-    <img src="https://img.shields.io/badge/GitHub-BlackMautz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=BlackMautz&color=9146ff&style=for-the-badge&label=PROFIL+AUFRUFE" alt="Profil Aufrufe" />
 </p>
 
 ---
@@ -58,9 +56,9 @@
 ## 📊 GitHub Aktivität
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackMautz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="BlackMautz GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMautz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=BlackMautz&theme=tokyonight&hide_border=true" alt="BlackMautz GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackMautz&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
 ---
