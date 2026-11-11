@@ -25,7 +25,7 @@
 ## 🚀 Meine Haupt-Projekte & Schwerpunkte
 
 ### 🎡 Fairground Online (Kirmes-Simulation)
-- **[Fairground-Online-Twitch](https://github.com/BlackMautz/Fairground-Online-Twitch):** Interaktive Twitch-Mod! Zuschauer spawnen als 3D-Peeps, tragen echte Twitch-Badges, arbeiten an Kassen & Buden und reagieren live im Spiel (`!jubel`, `!klatschen`, `!zugabe`).
+- **[Fairground Live (Twitch & TikTok Crowd)](https://github.com/BlackMautz/Fairground-Online-Twitch):** Interaktive Live-Mod für Twitch & TikTok! Zuschauer spawnen als 3D-Peeps mit echten 3D-Badges, arbeiten an Kassen & Buden und reagieren live im Spiel (`!jubel`, `!klatschen`, `!zugabe`).
 - **[Fairground-Online-BepInEx](https://github.com/BlackMautz/Fairground-Online-BepInEx):** Das 1-Klick IL2CPP Mod-Loader Framework für die Fairground Online Community.
 - **[FairgroundOnline-StreamDeck](https://github.com/BlackMautz/FairgroundOnline-StreamDeck):** Vollständiges Stream Deck XL Steuerpult für alle Fahrgeschäfte, Lichter, Soundeffekte und Nebelmaschinen.
 
